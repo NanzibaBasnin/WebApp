@@ -1,0 +1,60 @@
+*{margin:0px;padding:0px}
+
+
+.header
+{
+	
+    background:url("images/5.jpg") no-repeat;
+	
+	height:230px;
+}
+.first_row
+{
+	margin-top:20px;
+}
+
+.mymenu li a
+{
+	color:#ffffff;
+	padding:10px;
+}
+.mymenu li a:hover
+{
+	border-bottom: 2px solid #1abc9c;
+	text-decoration:none;
+	padding-bottom:10px;
+}
+
+.title
+{
+	color:white;
+}
+
+.new_row
+{
+	height:400px;
+	width:400px;
+	background:rgba(0, 159, 139, 0.85);
+}
+
+input[type="text"],[type="password"]
+{
+	height:45px;
+	width:300px;
+	font-size:17px;
+	margin-bottom:30px;
+	padding-left:30px;
+	margin-top:30px;
+}
+.search
+{
+	border:none;
+	padding:15px 30px;
+	background: #00483f;
+	cursor:pointer;
+	font-size:17px;
+	color:white;
+	width:300px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
