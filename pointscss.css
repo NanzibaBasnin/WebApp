@@ -1,0 +1,88 @@
+body
+{
+	background:url("pic1.jpg");
+	background-repeat:no;
+	background-size:100%;
+
+}
+
+
+.navbar
+{
+	height:100px;
+	width:100%;
+	background-color:#dc143c;
+	opacity:.9;
+	margin:0 auto;
+}
+
+nav
+{
+	float: right;
+
+}
+nav ul
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+nav li
+{
+	display:inline-block;
+	margin-right:100px;
+	padding-top:23px;
+}
+
+  nav a{
+  	color:#fff;
+  	text-decoration:none;
+  	font:12px;
+  }
+
+
+nav a:hover{
+	color:#000;
+}
+
+
+
+.point
+{
+	height:300px;
+	width:500px;
+	background-color: #dc143c;
+	margin:0 auto;
+	margin-top:100px;
+	text-align:center;
+}
+input[type="text"]
+{
+	height:45px;
+	width:300px;
+	font-size:17px;
+	margin-bottom:30px;
+	padding-left:30px;
+	margin-top:30px;
+}
+
+.login
+{
+	border:none;
+	padding:15px 30px;
+	background: #d35400;
+	border-radius:10px;
+	cursor:pointer;
+	font-size:17px;
+	margin-bottom:20px;
+
+}
+.login  hover
+{
+	color: #1a5276;
+}
+.container a
+{
+	color:#fff;
+}

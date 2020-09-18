@@ -1,0 +1,41 @@
+*{margin:0px;padding:0px}
+body
+{
+	background:url("main2.jpg");
+	background-repeat:no;
+	background-size:100%;
+
+}
+.navbar
+{
+	height:50px;
+	width:100%;
+	background-color:#dc143c;
+	opacity:.9;
+}
+nav
+{
+	float: right;
+
+}
+nav ul
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+nav li
+{
+	display:inline-block;
+	margin-right:100px;
+	padding-top:23px;
+}
+nav a{
+	color:#fff;
+	text-decoration:none;
+	font:12px;
+}
+nav a:hover{
+	color:#000;
+}
